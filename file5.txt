@@ -1,1 +1,2 @@
 created file for to validate creating a new branch "Phase2"
+update from Developer2
